@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "CSTheRep",
+    "email": "CSTheRep@is-a.dev"
+  },
+  "records": {
+    "CNAME": "CSTheRep.github.io"
+  },
+  "proxied": true
+}
